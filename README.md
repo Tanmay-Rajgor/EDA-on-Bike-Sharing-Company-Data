@@ -1,6 +1,6 @@
 Hello I am Tanmay,
 
-In this EDA ( Explanatory Data Anlaysis ) Project, I have used dataset "hour.csv". in which i have used major functions, which are used for analysis from pandas. 
+In this EDA ( Explanatory Data Anlaysis ) Project, I have used dataset "hour.csv". in this project, i have used major functions, which are used for analysis from pandas. 
 and then for visualization and plotting i have moved to seaborn and matplotlib.
 
 functions used from pandas:
